@@ -26,5 +26,6 @@ Here are some of the screenshots of the results:
     alt="Game over screen" width="270" height="240">]
 
 
-## Getting Started
-The notebook is accessible by cl
+## Code structure
+- `Autonomous_driving_application_Car_detection.ipynb`: Main notebook containing the implementation.
+- `yolo_utils.py`: Python script containing helper functions for the implementation.
