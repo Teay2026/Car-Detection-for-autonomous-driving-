@@ -28,7 +28,7 @@ Here are some screenshots of the results:
 
 
 ### Car Detection as the final result
-![Vizualizing classes](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/final.png)
+![Car Detection as the final result](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/final.png)
 
 ## Code Structure
 
