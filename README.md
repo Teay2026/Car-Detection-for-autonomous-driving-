@@ -21,16 +21,14 @@ Here are some screenshots of the results:
 
 ### Vizualizing classes
 ![Vizualizing classes](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/classes.png)
-[<img src="https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/classes.png"
-    alt="Vizualizing classes" width="270" height="240">]
+
 
 ### Non-max suppression
-[<img src="https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/non_max_supression.png"
-    alt="Non-max suppression" width="270" height="240">]
+![Non-max supression](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/non_max_supression.png)
+
 
 ### Car Detection as the final result
-[<img src="https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/final.png"
-    alt="Car Detection as the final result" width="270" height="240">]
+![Vizualizing classes](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/final.png)
 
 ## Code Structure
 
