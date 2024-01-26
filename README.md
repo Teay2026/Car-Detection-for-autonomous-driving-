@@ -20,6 +20,7 @@ The objectives of the project were to:
 Here are some screenshots of the results:
 
 ### Vizualizing classes
+![Vizualizing classes](https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/classes.png)
 [<img src="https://github.com/Teay2026/Car-Detection-for-autonomous-driving-/blob/main/screenshots/classes.png"
     alt="Vizualizing classes" width="270" height="240">]
 
